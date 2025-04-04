@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="TileMapLayer Highlight Cell"
+run/main_scene="uid://bmmpmu5lkhh2o"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
